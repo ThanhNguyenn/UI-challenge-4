@@ -1,0 +1,13 @@
+.policy--title {
+  font-size: 13px;
+  width: 70%;
+}
+
+.policy--title span {
+  color: blue;
+  cursor: pointer;
+}
+
+.policy--title span:hover {
+  color: #141e42;
+}

@@ -1,0 +1,16 @@
+.resultItem--container {
+  background-color: #2b3455;
+  display: inline-flex;
+  color: #ffffff;
+  margin: 2px 2px;
+  align-items: center;
+  padding: 10px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+
+.resultItem--container:hover {
+  background-color: #47568b;
+}

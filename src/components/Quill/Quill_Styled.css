@@ -1,0 +1,17 @@
+.quill--button {
+  width: 175px;
+  height: 48px;
+  background-color: #141e42;
+  border: none;
+  color: #ffffff;
+  border-radius: 5px;
+  font-size: 16px;
+  font-family: inherit;
+  margin: 15px 0px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.quill--button:hover {
+  background-color: #283f93;
+}
